@@ -4627,29 +4627,6 @@
       </categories>
   </entry>
   <entry>
-    <title>Hello World</title>
-    <url>/2023/09/23/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
-  </entry>
-  <entry>
-    <title>test</title>
-    <url>/2023/09/23/test/</url>
-    <content><![CDATA[<h1 id="Test"><a href="#Test" class="headerlink" title="Test"></a>Test</h1><h3 id="This-is-a-test-article"><a href="#This-is-a-test-article" class="headerlink" title="This is a test article."></a>This is a test article.</h3>]]></content>
-  </entry>
-  <entry>
     <title>其他資料</title>
     <url>/2023/09/23/%E5%85%B6%E4%BB%96%E8%B3%87%E6%96%99/</url>
     <content><![CDATA[<p><a href="https://drive.google.com/drive/folders/1aa1AEQ24n6gUsvZe2v_RncFTNy3qaHiP">https://drive.google.com/drive/folders/1aa1AEQ24n6gUsvZe2v_RncFTNy3qaHiP</a></p>
@@ -4675,5 +4652,13 @@
       <categories>
         <category>43經濟學的政策運用</category>
       </categories>
+  </entry>
+  <entry>
+    <title>公告</title>
+    <url>/2023/10/16/Ann_23_10_16/</url>
+    <content><![CDATA[<p>【本網站目前仍在測試階段，如有不便請見諒】</p>
+<p>各位同學好，本網站為台大經濟系學會學術部架設的經濟資料庫，供各位同學查找課程歷史資料，輔助學習。<br>本網站所有資料著作權仍屬各課程授課老師，請勿將資料下載作為商業用途。</p>
+<p>台大經濟系學會學術部</p>
+]]></content>
   </entry>
 </search>
